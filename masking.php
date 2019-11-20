@@ -1,4 +1,5 @@
 <?php
+echo "Ini Revisi";
 /***
 Site		:	http://www.tool.eddiekidiw.com/phpobfuscator-v-02.html
 Date		:	2019-11-13
