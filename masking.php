@@ -1,5 +1,7 @@
 <?php
-echo "Ini Revisi";
+//echo "Ini Revisi";
+echo "Wkwk";
+echo "Lha ada apa";
 /***
 Site		:	http://www.tool.eddiekidiw.com/phpobfuscator-v-02.html
 Date		:	2019-11-13
